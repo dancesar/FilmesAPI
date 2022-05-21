@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "NcEFBuLjkhtjUoI5MngqR9zFUIbr+JPRgX1w9DQirzwcK6j+EhqMRVNe2ZxbibvnU63aPNFlICIvcNDcAReSxw==",
+  "dgSpecHash": "/L/1O5LN60uRFdxe1E3+fc46mssWT6Uj2VlCyj3CjDebVuSuVhCo1qlMhCv8y394Jv26hGt8crQjBymQycBD5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\danil\\git\\FilmesAPI\\FilmesAPI.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,8 @@
     "C:\\Users\\danil\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\danil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\danil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\danil\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
