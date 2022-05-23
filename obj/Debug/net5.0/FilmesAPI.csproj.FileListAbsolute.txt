@@ -5,13 +5,11 @@ C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\FilmesAPI.deps.json
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.json
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\FilmesAPI.runtimeconfig.dev.json
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\FilmesAPI.dll
-C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\ref\FilmesAPI.dll
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\FilmesAPI.pdb
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csprojAssemblyReference.cache
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfoInputs.cache
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.AssemblyInfo.cs
@@ -19,7 +17,6 @@ C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CoreCompileInputs
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.Manifest.cache
-C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\staticwebassets\FilmesAPI.StaticWebAssets.xml
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\scopedcss\bundle\FilmesAPI.styles.css
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.RazorTargetAssemblyInfo.cache
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.CopyComplete
@@ -27,3 +24,6 @@ C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.dll
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\ref\FilmesAPI.dll
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.pdb
 C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.genruntimeconfig.cache
+C:\Users\danil\git\FilmesAPI\bin\Debug\net5.0\FilmesAPI.StaticWebAssets.xml
+C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\FilmesAPI.csproj.AssemblyReference.cache
+C:\Users\danil\git\FilmesAPI\obj\Debug\net5.0\refint\FilmesAPI.dll
